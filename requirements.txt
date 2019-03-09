@@ -1,1 +1,2 @@
-apache-airflow==1.10.2
+apache-airflow[postgres, password]==1.10.2
+psycopg2==2.7.7

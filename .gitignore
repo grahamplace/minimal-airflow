@@ -5,6 +5,7 @@ airflow.db
 unittests.cfg
 logs/
 airflow-*
+airflow.*
 
 # TEMPLATE:
 # https://github.com/github/gitignore/blob/master/Python.gitignore
